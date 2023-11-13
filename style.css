@@ -1,0 +1,8 @@
+header {
+    display: static;
+    background-image: linear-gradient(0deg, white, rgba(255, 255, 255, 0));
+}
+
+header img{
+    size: 10%;
+}
